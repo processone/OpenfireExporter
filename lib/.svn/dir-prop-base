@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 95
+commons-fileupload-1.0.jar
+dom4j-1.6.1.jar
+isorelax.jar
+msv.jar
+relaxngDatatype.jar
+xsdlib.jar
+
+END

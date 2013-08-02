@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ejabberd-modules/!svn/ver/1010/openfire-export/trunk/OpenfireExporter/src/java/net/processone/plugin/openfire
+END
+ExporterXEP227.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/ejabberd-modules/!svn/ver/1010/openfire-export/trunk/OpenfireExporter/src/java/net/processone/plugin/openfire/ExporterXEP227.java
+END
+UserSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/java/net/processone/plugin/openfire/UserSchemaValidator.java
+END

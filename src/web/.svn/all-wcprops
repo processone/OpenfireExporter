@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web
+END
+export-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/export-user-data.jsp
+END
+import-export-selection.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/import-export-selection.jsp
+END
+import-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/import-user-data.jsp
+END
+export-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/export-file.jsp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/1007/openfire-export/trunk/OpenfireExporter/classes
+END
+xep-0227.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ejabberd-modules/!svn/ver/1007/openfire-export/trunk/OpenfireExporter/classes/xep-0227.xsd
+END
+wildfire-user-schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ejabberd-modules/!svn/ver/1007/openfire-export/trunk/OpenfireExporter/classes/wildfire-user-schema.xsd
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/images
+END
+success-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/images/success-16x16.gif
+END
+error-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/images/error-16x16.gif
+END
+info-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ejabberd-modules/!svn/ver/998/openfire-export/trunk/OpenfireExporter/src/web/images/info-16x16.gif
+END
